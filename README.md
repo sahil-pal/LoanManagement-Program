@@ -12,3 +12,7 @@ It is an console based app developed **using core spring concepts** that target 
 1. Java spring framework
 2. javax annotations
 3. my-sql connector
+
+## How it looks like
+<img width="586" alt="Screenshot 2021-06-29 at 11 08 47 AM" src="https://user-images.githubusercontent.com/69889824/123902705-effd4800-d98a-11eb-9d34-953598bf8425.png">
+
